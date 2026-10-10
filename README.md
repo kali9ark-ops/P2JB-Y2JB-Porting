@@ -1,4 +1,4 @@
-Ark# p2jb-y2jb
+Ps5# p2jb-y2jb
 
 **PlayStation 5 jailbreak (firmware 9.00 – 12.40)**
 — a port of Gezine / cheburek3000's
